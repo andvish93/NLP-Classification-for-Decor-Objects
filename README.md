@@ -1,6 +1,4 @@
-# decormatters
-## dataminingforinterview
-data mining scripts for interview
+# NLP-based Furniture and Decor Objects Classification
 
 There are two files in this repository:
 1. Corpus_training.csv
@@ -11,10 +9,6 @@ Text classification: Based on text column in corpus file to predict label1 colum
 
 Requirement: 
 Use the training data to train the model, and achieve 90% accurancy for testing data (only label1). 
-
-Length: 
-1 week
-
 
 Results:
 
